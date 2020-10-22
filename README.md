@@ -1,4 +1,4 @@
-# thepeacekeepers.github.io
+# thepeacekeepers
 
 - [thepeacekeepers domain](https://siasky.net/hns/thepeacekeepers/)
 - [Handshake](https://handshake.org/)
